@@ -1,3 +1,4 @@
+#Worked with Christian and Songwen
 # HW4: Hand Gesture Tracking and Recognition 
 
 For this homework you will be implementing hand gesture recognition and tracking using OpenCV. You will then use this to create custom gestures, and control keyboard and mouse actions. 
